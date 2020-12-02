@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there, James here. 👋
+
+I am a self-taught Frontend Developer from Colombia and hobby guitarist. You will find projects and contributions made by me here. Shoot a message if you have any questions!
 
 <!--
 **jamesleeat/jamesleeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
